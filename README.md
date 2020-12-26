@@ -1,3 +1,3 @@
 # MyRecyclewViewHero
 SuperHero
-RecyclewView with Kotlin 
+RecyclewView with Kotlin usando la librería de picasso
